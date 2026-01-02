@@ -1,0 +1,13 @@
+numpy
+pandas
+xarray
+joblib
+scikit-learn
+netCDF4
+cftime
+matplotlib
+streamlit
+streamlit-autorefresh
+fastapi
+uvicorn[standard]
+python-dotenv

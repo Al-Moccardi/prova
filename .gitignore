@@ -1,0 +1,11 @@
+# Ignore a folder and everything inside it
+dashboard/
+venv/
+experiments\.example
+__pycache__/
+*.log
+nino34.long.anom.data.txt
+sst.mon.mean.trefadj.anom.1880to2018.nc
+
+
+
